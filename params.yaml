@@ -3,7 +3,7 @@ base:
   random_state: 42
   target_col: class
 
-datasource:
+data_source:
   s3_source: data_given/BankNote_Authentication.csv
 
 
