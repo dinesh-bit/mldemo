@@ -39,6 +39,13 @@ git push -u origin main
 ...bash
 git add . 
 git commit -m "parameters added"
+git push -u origin main
+...
+
+...bash
+git add . 
+git commit -m "getting the data"
+git push -u origin main
 ...
 
 
